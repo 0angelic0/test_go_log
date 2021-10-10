@@ -1,0 +1,51 @@
+2021/10/09 23:23:45 Hello world!
+2021/10/09 23:26:58 Hello world!
+INFO: 2021/10/09 23:26:58 main.go:46: Starting the application...
+INFO: 2021/10/09 23:26:58 main.go:47: Something noteworthy happened
+WARNING: 2021/10/09 23:26:58 main.go:48: There is something you should know about
+ERROR: 2021/10/09 23:26:58 main.go:49: Something went wrong
+2021/10/10 11:18:36 Hello world!
+INFO: 2021/10/10 11:18:36 main.go:46: Starting the application...
+INFO: 2021/10/10 11:18:36 main.go:47: Something noteworthy happened
+WARNING: 2021/10/10 11:18:36 main.go:48: There is something you should know about
+ERROR: 2021/10/10 11:18:36 main.go:49: Something went wrong
+2021/10/10 13:11:31 Hello world!
+INFO: 2021/10/10 13:11:31 main.go:46: Starting the application...
+INFO: 2021/10/10 13:11:31 main.go:47: Something noteworthy happened
+WARNING: 2021/10/10 13:11:31 main.go:48: There is something you should know about
+ERROR: 2021/10/10 13:11:31 main.go:49: Something went wrong
+2021/10/10 13:14:46 Hello world!
+INFO: 2021/10/10 13:14:46 log.go:40: Starting the application...
+INFO: 2021/10/10 13:14:46 log.go:41: Something noteworthy happened
+WARNING: 2021/10/10 13:14:46 log.go:42: There is something you should know about
+ERROR: 2021/10/10 13:14:46 log.go:43: Something went wrong
+2021/10/10 13:23:39 Hello world!
+INFO: 2021/10/10 13:23:39 log.go:40: Starting the application...
+INFO: 2021/10/10 13:23:39 log.go:41: Something noteworthy happened
+WARNING: 2021/10/10 13:23:39 log.go:42: There is something you should know about
+ERROR: 2021/10/10 13:23:39 log.go:43: Something went wrong
+2021/10/10 13:29:26 Hello world!
+INFO: 2021/10/10 13:29:26 log.go:40: Starting the application...
+INFO: 2021/10/10 13:29:26 log.go:41: Something noteworthy happened
+WARNING: 2021/10/10 13:29:26 log.go:42: There is something you should know about
+ERROR: 2021/10/10 13:29:26 log.go:43: Something went wrong
+2021/10/10 13:35:37 Hello world!
+INFO: 2021/10/10 13:35:37 log.go:40: Starting the application...
+INFO: 2021/10/10 13:35:37 log.go:41: Something noteworthy happened
+WARNING: 2021/10/10 13:35:37 log.go:42: There is something you should know about
+ERROR: 2021/10/10 13:35:37 log.go:43: Something went wrong
+2021/10/10 13:35:57 Hello world!
+INFO: 2021/10/10 13:35:57 log.go:40: Starting the application...
+INFO: 2021/10/10 13:35:57 log.go:41: Something noteworthy happened
+WARNING: 2021/10/10 13:35:57 log.go:42: There is something you should know about
+ERROR: 2021/10/10 13:35:57 log.go:43: Something went wrong
+2021/10/10 13:36:17 Hello world!
+INFO: 2021/10/10 13:36:18 log.go:40: Starting the application...
+INFO: 2021/10/10 13:36:18 log.go:41: Something noteworthy happened
+WARNING: 2021/10/10 13:36:18 log.go:42: There is something you should know about
+ERROR: 2021/10/10 13:36:18 log.go:43: Something went wrong
+2021/10/10 17:17:29 Hello world!
+INFO: 2021/10/10 17:17:29 log.go:40: Starting the application...
+INFO: 2021/10/10 17:17:29 log.go:41: Something noteworthy happened
+WARNING: 2021/10/10 17:17:29 log.go:42: There is something you should know about
+ERROR: 2021/10/10 17:17:29 log.go:43: Something went wrong
